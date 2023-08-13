@@ -22,8 +22,7 @@ This is known as the serial position effect. The tendency to recall earlier word
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/screenshots/screenshot1.jpeg) ![Screenshot 2](/screenshots/screenshot2.jpeg)
 
 ## Getting Started
 
