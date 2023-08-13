@@ -22,7 +22,12 @@ This is known as the serial position effect. The tendency to recall earlier word
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.jpeg) ![Screenshot 2](/screenshots/screenshot2.jpeg)
+<table>
+  <tr>
+    <td><img src="/screenshots/screenshot1.jpeg" alt="Screenshot 1" width="300"/></td>
+    <td><img src="/screenshots/screenshot2.jpeg" alt="Screenshot 2" width="300"/></td>
+  </tr>
+</table>
 
 ## Getting Started
 
